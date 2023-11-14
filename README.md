@@ -3,7 +3,7 @@
 
 #### About Me:
 
-Python enthusiast with expertise in NumPy, Pandas, Matplotlib, Seaborn, MySQL, and DSA. Skilled in Flask, Streamlit for web development. Passionate about data narratives, detail-oriented problem-solving, and continuous growth. Open to exploring ML, cloud platforms for data analysis.
+###### Python enthusiast with expertise in NumPy, Pandas, Matplotlib, Seaborn, MySQL, and DSA. Skilled in Flask, Streamlit for web development. Passionate about data narratives, detail-oriented problem-solving, and continuous growth. Open to exploring ML, cloud platforms for data analysis.
 ---
 
 #### Github Stats:
