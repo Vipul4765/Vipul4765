@@ -6,7 +6,7 @@
 Python enthusiast with expertise in NumPy, Pandas, Matplotlib, Seaborn, MySQL, and DSA. Skilled in Flask, Streamlit for web development. Passionate about data narratives, detail-oriented problem-solving, and continuous growth. Open to exploring ML, cloud platforms for data analysis.
 
 #### Github Stats:
-![Stats 3](https://github-readme-stats.vercel.app/api?username=campusx-official)
+![Stats 3](https://github-readme-stats.vercel.app/api?username=Vipul4765)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vipul4765)
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul4765)
 
