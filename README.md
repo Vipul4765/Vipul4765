@@ -7,8 +7,9 @@ Python enthusiast with expertise in NumPy, Pandas, Matplotlib, Seaborn, MySQL, a
 
 #### Github Stats:
 ![Stats 3](https://github-readme-stats.vercel.app/api?username=Vipul4765)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vipul4765)
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul4765)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vipul4765)
+
 
 
 
