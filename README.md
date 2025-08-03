@@ -51,16 +51,33 @@ My mission: To build **AI-powered stock intelligence systems** that simplify com
 
 ---
 
+---
+
 ### 📈 GitHub & Open-Source Stats
 
 <div align="center">
+  <!-- Total contributions -->
   <img src="https://github-readme-stats.vercel.app/api?username=Vipul4765&show_icons=true&theme=radical" height="180px"/>
+
+  <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul4765&layout=compact&theme=radical" height="180px"/>
+
+  <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul4765&theme=radical" height="180px"/>
+
+  <!-- Detailed activity -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vipul4765&theme=radical" height="180px"/>
+
+  <!-- Commits per repo -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vipul4765&theme=radical" height="180px"/>
+
+  <!-- Most used languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vipul4765&theme=radical" height="180px"/>
+
+  <!-- Activity by time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vipul4765&theme=radical&utcOffset=+5.5" height="180px"/>
 </div>
 
----
 
 ### 🤖 ML & AI Project Themes
 
