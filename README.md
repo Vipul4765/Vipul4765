@@ -91,7 +91,7 @@ My mission: To build **AI-powered stock intelligence systems** that simplify com
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/vipul4765](https://www.linkedin.com/in/vipul-kumar-5861221b9/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/vipul-kumar-5861221b9/)
 - 🌐 Personal Website: *(coming soon)*  
 - 📧 Email: `vipuldhankar17170277@gmail.com`
 
