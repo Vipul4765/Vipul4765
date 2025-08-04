@@ -32,11 +32,11 @@ My mission: To build **AI-powered stock intelligence systems** that simplify com
 
 ### 🚀 Highlight Projects
 
-- 🔍 **[NSE Equity Analyzer](https://github.com/Vipul4765/nse-equity-analyzer)**  
+- 🔍 **[QuantCrush](https://github.com/Vipul4765/QuantCrush)**  
   ⤷ Real-time data pipeline that downloads, cleans, and detects single-candle patterns using TA-Lib  
   ⤷ Integrated with PostgreSQL using **bitwise pattern encoding** for lightning-fast multi-parameter filters
 
-- 📊 **[Modern Stock API](https://github.com/Vipul4765/modern-stock-api)**  
+- 📊 **[LensOfFinance-AI](https://github.com/Vipul4765/LensOfFinance-AI)**  
   ⤷ FastAPI backend that offers `/company/{symbol}` endpoint with **AI-powered insights**  
   ⤷ Combines news sentiment, company fundamentals, technical charts — all in one API call  
   ⤷ Built for real-time performance & future voice/agent integration
